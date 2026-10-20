@@ -58,7 +58,7 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 
 | 📱 Portopolio (dark) | 📊 Portopolio (ligth |
 | :---: | :---: |
-| <img src="public/Cuplikan layar 2026-10-20 124542.png" width="100%" alt="Dark" />| <img src="<img width="1905" height="892" alt="Cuplikan layar 2026-10-20 123433" src="https://github.com/user-attachments/assets/f3e842ff-62b8-4028-b0ae-180e809b2f97" />"|
+| <img src="public/Cuplikan layar 2026-10-20 124542.png" width="100%" alt="Dark" />| <img src="public/Cuplikan layar 2026-10-20 123433.png" width="100%" alt="ligth" />"|
 | **Tech:** Laravel, Vue.js, Tailwind CSS<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) | **Tech:** React, Tailwind CSS, Recharts<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) |
 
 👨‍💻 Tentang Pengembang
