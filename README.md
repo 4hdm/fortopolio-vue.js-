@@ -3,7 +3,7 @@
   <!-- Logo / Header Icon -->
   <img src="public/foto profil.png" alt="Ahdam Ashari" width="120" style="border-radius: 50%;" />
 
-  # 🚀 Portfolio Website - Ahdam Ashari
+  # 🚀 Portfolio Website - Ahdam Ashari (simple project)
 
   **Sebuah aplikasi web portofolio personal yang interaktif, responsif, dan modern.**
 
@@ -56,3 +56,20 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 ├── index.html               # HTML Template
 ├── package.json             # Dependencies & script runner
 └── tailwind.config.js       # Konfigurasi Tailwind CSS
+```
+### 📱 Tangkapan Layar Aplikasi (App Screenshots)
+
+| 📱 Portopolio (dark) | 📊 Portopolio (ligth |
+| :---: | :---: |
+| <img src="public/d-rent.png" width="100%" alt="D-Rent Application" /> | <img src="public/dashboard.png" width="100%" alt="E-Commerce Dashboard" /> |
+| **Tech:** Laravel, Vue.js, Tailwind CSS<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) | **Tech:** React, Tailwind CSS, Recharts<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) |
+
+👨‍💻 Tentang Pengembang
+AHDAM ASHARI
+
+Mahasiswa Teknik Informatika - STITEK Bontang
+
+📍 Bontang, Kalimantan Timur, Indonesia
+
+📄 Lisensi
+Proyek ini dilindungi di bawah lisensi MIT License. Bebas untuk digunakan dan dimodifikasi sebagai referensi portofolio Anda!
