@@ -54,7 +54,8 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 ├── package.json             # Dependencies & script runner
 └── tailwind.config.js       # Konfigurasi Tailwind CSS
 ```
-## 📱 Tangkapan Layar Aplikasi (App Screenshots)
+
+### 📱 Tangkapan Layar Aplikasi (App Screenshots)
 
 | 📱 Portopolio (dark) | 📱 Portopolio (light) |
 | :---: | :---: |
