@@ -62,7 +62,7 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 | **Tech:** Laravel, Vue.js, Tailwind CSS<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) | **Tech:** React, Tailwind CSS, Recharts<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) |
 
 ---
-##👨‍💻 Tentang Pengembang
+## 👨‍💻 Tentang Pengembang
 AHDAM ASHARI
 
 Mahasiswa Teknik Informatika - STITEK Bontang
