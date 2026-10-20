@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Logo / Header Icon -->
-<img width="871" height="683" alt="Cuplikan layar 2026-10-02 154338" src="https://github.com/user-attachments/assets/50bec0ba-47ad-47c5-94c4-e25564f0b249" />
+|<img width="871" height="683" alt="Cuplikan layar 2026-10-02 154338" src="https://github.com/user-attachments/assets/50bec0ba-47ad-47c5-94c4-e25564f0b249" />|
 
   # 🚀 Portfolio Website - Ahdam Ashari (simple project)
 
