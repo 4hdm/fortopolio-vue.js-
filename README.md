@@ -1,7 +1,5 @@
-<img width="1900" height="872" alt="image" src="https://github.com/user-attachments/assets/196809ee-ae08-4f61-b81b-4445c61a654b" /><div align="center">
-
   <!-- Logo / Header Icon -->
-  <img src="public/foto profil.png" alt="Ahdam Ashari" width="120" style="border-radius: 50%;" />
+  <img width="871" alt="Cuplikan layar 2026-10-02 154338" src="https://github.com/user-attachments/assets/66ec9ea6-68d6-4a4b-a234-c518d3df821e" style="border-radius: 50%;" />
 
   # 🚀 Portfolio Website - Ahdam Ashari (simple project)
 
