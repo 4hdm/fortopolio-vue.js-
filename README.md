@@ -60,7 +60,7 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 | 📱 Portopolio (dark) | 📱 Portopolio (light) |
 | :---: | :---: |
 | ![Portofolio Dark](public/dark.png) | ![Portofolio Light](public/light.png) |
-| **Tech:** Laravel, Vue.js, Tailwind CSS<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) | **Tech:** React, Tailwind CSS, Recharts<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) |
+| **Tech:** Vue 3, Tailwind CSS, Vite<br>[🌐 Demo](https://4hdm.github.io) · [💻 Repo](https://github.com/4hdm/fortopolio-vue.js-) | **Tech:** Vue 3, Tailwind CSS, Vite<br>[🌐 Demo](https://4hdm.github.io) · [💻 Repo](https://github.com/4hdm/fortopolio-vue.js-) |
 
 ---
 ## 👨‍💻 Tentang Pengembang
