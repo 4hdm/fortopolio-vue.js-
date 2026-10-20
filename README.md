@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1900" height="872" alt="image" src="https://github.com/user-attachments/assets/196809ee-ae08-4f61-b81b-4445c61a654b" /><div align="center">
 
   <!-- Logo / Header Icon -->
   <img src="public/foto profil.png" alt="Ahdam Ashari" width="120" style="border-radius: 50%;" />
@@ -61,7 +61,8 @@ Dibuat menggunakan **Vue 3 (Composition API)** dan **Tailwind CSS**, portofolio 
 
 | 📱 Portopolio (dark) | 📊 Portopolio (ligth |
 | :---: | :---: |
-| <img src="public/d-rent.png" width="100%" alt="D-Rent Application" /> | <img src="public/dashboard.png" width="100%" alt="E-Commerce Dashboard" /> |
+| <img src="public/d-rent.png<img width="1900" height="872" alt="Cuplikan layar 2026-10-20 124542" src="https://github.com/user-attachments/assets/e124dacb-55ec-4762-bbea-32dd4ecff760" />
+" width="100%" alt="D-Rent Application" /> | <img src="public/dashboard.png" width="100%" alt="E-Commerce Dashboard" /> |
 | **Tech:** Laravel, Vue.js, Tailwind CSS<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) | **Tech:** React, Tailwind CSS, Recharts<br>[🌐 Demo](https://example.com) · [💻 Repo](https://github.com) |
 
 👨‍💻 Tentang Pengembang
